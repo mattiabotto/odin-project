@@ -1,0 +1,34 @@
+* {
+    color: purple;
+    font-family: "Times New Roman", serif;
+}
+
+div {
+    color: blue;
+}
+
+.alert-text {
+    color: red;
+}
+
+.severe-alert, #title, .subsection.header {
+    font-weight: 600;
+    
+}
+
+#title {
+    background-color: red;
+    color: black;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.subsection.header {
+    margin: 5px;
+    color: green;
+    font-family:'Courier New', Courier, monospace;
+}
+
+.subsection#preview {
+    color: black;
+    background-color:aquamarine;
+}
